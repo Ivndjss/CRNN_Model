@@ -1,1 +1,1 @@
-CRNN_Model
+# CRNN_Model for Handwritten Text Recognition
